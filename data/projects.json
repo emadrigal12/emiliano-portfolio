@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "id": "softland-erp-integration",
+      "title": "Integración Softland ERP",
+      "description": "Sistema de integración completo con Softland ERP utilizando .NET para automatizar procesos empresariales.",
+      "longDescription": "Desarrollo de un sistema robusto de integración con Softland ERP que automatiza procesos de facturación, inventario y contabilidad. Implementé APIs REST, manejo de bases de datos SQL Server y interfaces de usuario responsive.",
+      "technologies": [".NET", "C#", "SQL Server", "REST API", "Bootstrap"],
+      "image": "/images/projects/erp-integration.jpg",
+      "githubUrl": "https://github.com/emadrigal/softland-integration",
+      "featured": true,
+      "date": "2023-06-01",
+      "category": "Enterprise Software"
+    },
+    {
+      "id": "inventory-management",
+      "title": "Sistema de Gestión de Inventario",
+      "description": "Aplicación web para gestión de inventario con Node.js y React, incluyendo reportes en tiempo real.",
+      "longDescription": "Sistema completo de gestión de inventario construido con Node.js y React. Incluye funcionalidades de tracking en tiempo real, alertas de stock bajo, generación de reportes y dashboard analítico.",
+      "technologies": ["Node.js", "React", "MongoDB", "Express", "Chart.js"],
+      "image": "/images/projects/inventory-system.jpg",
+      "githubUrl": "https://github.com/emadrigal/inventory-management",
+      "liveUrl": "https://inventory-demo.emadrigal.dev",
+      "featured": true,
+      "date": "2023-08-15",
+      "category": "Web Application"
+    }
+  ]
+}
